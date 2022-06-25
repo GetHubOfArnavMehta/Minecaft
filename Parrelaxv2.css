@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace  ;
+}
+.m-1{
+    background-image: url(Minecraft.jpeg);
+    height: 100vh;
+    width:100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.m1-h1-1{
+    font-size: 100px;
+    text-align: center;
+    padding-top: 45vh;
+    color: aliceblue;
+}
+
+.m2-h1-1{
+    font-size: 80px;
+    text-align: center;
+}
+.m2-p-1{
+    font-size: 20px;
+    margin-left: 30vw;
+    width: 40%;
+    text-align: center;
+}
+.m-3{
+    background-image: url(/css/Parrelaxv2/migration.png);
+    height: 30vh;
+    width:100%;
+    background-attachment: fixed;
+}
+.m3-h1-1{
+    font-size: 80px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 9vh;  
+}
+
+.m4-p-1{
+    padding-left: 3px;
+    padding-right:3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    background-color: peachpuff;
+}
+.m-4, .m-41{
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    background-color: peachpuff;
+}
+.m-4{
+    padding-top: 15px;
+}
+.m-5{
+    background-image: url(/css/Parrelaxv2/ContactUs.png);
+    width:100%;
+    background-size: fit;
+    background-attachment: fixed;
+}
+.m5-h1-1{
+    font-size: 80px;
+    text-align: center;
+}
+.m6-t{
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 1vh;
+    margin-top: 5vh;
+}
+.m6-e{
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 1vh;
+}
+.m6-s{
+    width: 50%;
+    margin-left: 25%;
+    background-color: rgb(240, 57, 94);
+    margin-bottom: 10vh;
+}
+.m6-ta{
+    width: 50%;
+    margin-left: 25%;
+    height: 20vh;
+    margin-bottom: 1vh;
+}
+.m-6{
+    background-color: gray;
+}
